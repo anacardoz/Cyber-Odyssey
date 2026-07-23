@@ -1,6 +1,6 @@
 <div align="center">
 
- <img src="assets/banner.png" alt="Cyber Odyssey Banner" width="100%">
+ <img src="assets/cyber-odyssey.png" alt="Cyber Odyssey Banner" width="100%">
 
 #  Cyber Odyssey
 
